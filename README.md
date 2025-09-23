@@ -8,11 +8,6 @@ welcome to my repo for **igme-110**. this repo will hold files, notes, and pract
 - you can also publish markdown docs here  
 - students get **free private repos** with the [github student pack](https://github.com/education)  
 
-## repo setup  
-1. created a new repo called **IGME-110-Repo**  
-2. made it **public**  
-3. added a **readme.md**  
-4. will use this to test markdown and publish a listicle  
 
 ## markdown practice  
 ### headers  
