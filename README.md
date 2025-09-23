@@ -31,6 +31,6 @@ welcome to my repo for **igme-110**. this repo will hold files, notes, and pract
 - [**rit**](https://www.rit.edu) ← bold clickable text  
 
 ### image  
-![rit logo](https://upload.wikimedia.org/wikipedia/commons/0/04/Rochester_Institute_of_Technology_seal.svg)  
+![rit logo]([https://upload.wikimedia.org/wikipedia/commons/0/04/Rochester_Institute_of_Technology_seal.svg](https://www.rit.edu/brandportal/sites/rit.edu.brandportal/files/2020-04/RIT_RGB_hor.png))  
 
 ---
